@@ -1,1 +1,1 @@
-# rsschool-c
+# https://gettosun.github.io/rsschool-cv/cv
