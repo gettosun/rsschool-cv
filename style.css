@@ -1,0 +1,13 @@
+span {
+    text-shadow: 1px 1px 5px black;
+}
+.yellow {
+    color: yellow;
+}
+.blue {
+    color: blue;
+}
+h1 {
+    text-align: center;
+    text-shadow: 1px 1px 3px rgb(110, 237, 247);
+}
